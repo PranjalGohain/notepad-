@@ -1,0 +1,12 @@
+{
+    "name": "windows_SQL",
+    "description": "Role to configure all Chef nodes",
+    "chef_type": "role",
+    "json_clas": "Chef::Role",
+    "default_attributes": {
+    },
+    "override_attributes": {
+    },
+    "run_list": [ "recipe[windows_SQL]"
+    ]
+}

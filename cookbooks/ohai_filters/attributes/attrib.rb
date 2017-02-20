@@ -1,0 +1,1 @@
+default["filters"]["indexfile"] = "index1.html"

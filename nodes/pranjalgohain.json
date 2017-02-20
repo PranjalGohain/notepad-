@@ -1,0 +1,2051 @@
+{
+  "name": "pranjalgohain",
+  "normal": {
+    "tags": [
+
+    ]
+  },
+  "automatic": {
+    "cpu": {
+      "0": {
+        "cores": 2,
+        "vendor_id": "GenuineIntel",
+        "family": "205",
+        "model": "17665",
+        "stepping": "1",
+        "physical_id": "CPU0",
+        "model_name": "Intel64 Family 6 Model 69 Stepping 1",
+        "mhz": "2601",
+        "cache_size": "256 KB"
+      },
+      "total": 4,
+      "cores": 2,
+      "real": 1
+    },
+    "filesystem": {
+      "C:": {
+        "kb_size": 499058208,
+        "kb_available": 98630770,
+        "kb_used": 400427438,
+        "percent_used": 80,
+        "mount": "C:",
+        "fs_type": "ntfs",
+        "volume_name": "PC COE"
+      }
+    },
+    "kernel": {
+      "os_info": {
+        "boot_device": "\\Device\\HarddiskVolume2",
+        "build_number": "7601",
+        "build_type": "Multiprocessor Free",
+        "caption": "Microsoft Windows 7 Enterprise ",
+        "code_set": "1252",
+        "country_code": "1",
+        "creation_class_name": "Win32_OperatingSystem",
+        "cs_creation_class_name": "Win32_ComputerSystem",
+        "csd_version": "Service Pack 1",
+        "cs_name": "GOHAIN11",
+        "current_time_zone": 330,
+        "data_execution_prevention_32_bit_applications": true,
+        "data_execution_prevention_available": true,
+        "data_execution_prevention_drivers": true,
+        "data_execution_prevention_support_policy": 2,
+        "debug": false,
+        "description": "",
+        "distributed": false,
+        "encryption_level": 256,
+        "foreground_application_boost": 2,
+        "free_physical_memory": "2090048",
+        "free_space_in_paging_files": "7048880",
+        "free_virtual_memory": "8244144",
+        "install_date": "20160825125550.000000+330",
+        "large_system_cache": null,
+        "last_boot_up_time": "20170213104319.471104+330",
+        "local_date_time": "20170214151506.564000+330",
+        "locale": "0409",
+        "manufacturer": "Microsoft Corporation",
+        "max_number_of_processes": -1,
+        "max_process_memory_size": "8589934464",
+        "mui_languages": [
+          "en-US"
+        ],
+        "name": "Microsoft Windows 7 Enterprise |C:\\windows|\\Device\\Harddisk0\\Partition3",
+        "number_of_licensed_users": 0,
+        "number_of_processes": 160,
+        "number_of_users": 2,
+        "operating_system_sku": 4,
+        "organization": "Hewlett Packard Enterprise",
+        "os_architecture": "64-bit",
+        "os_language": 1033,
+        "os_product_suite": 256,
+        "os_type": 18,
+        "other_type_description": null,
+        "pae_enabled": null,
+        "plus_product_id": null,
+        "plus_version_number": null,
+        "primary": true,
+        "product_type": 1,
+        "registered_user": "Pranjal Pratim Gohain",
+        "serial_number": "00392-918-5000002-85287",
+        "service_pack_major_version": 1,
+        "service_pack_minor_version": 0,
+        "size_stored_in_paging_files": "8283244",
+        "status": "OK",
+        "suite_mask": 272,
+        "system_device": "\\Device\\HarddiskVolume3",
+        "system_directory": "C:\\windows\\system32",
+        "system_drive": "C:",
+        "total_swap_space_size": null,
+        "total_virtual_memory_size": "16564628",
+        "total_visible_memory_size": "8283244",
+        "version": "6.1.7601",
+        "windows_directory": "C:\\windows"
+      },
+      "name": "Microsoft Windows 7 Enterprise ",
+      "release": "6.1.7601",
+      "version": "6.1.7601 Service Pack 1 Build 7601",
+      "os": "WINNT",
+      "cs_info": {
+        "admin_password_status": 3,
+        "automatic_managed_pagefile": true,
+        "automatic_reset_boot_option": false,
+        "automatic_reset_capability": true,
+        "boot_option_on_limit": null,
+        "boot_option_on_watch_dog": null,
+        "boot_rom_supported": true,
+        "bootup_state": "Normal boot",
+        "caption": "GOHAIN11",
+        "chassis_bootup_state": 3,
+        "creation_class_name": "Win32_ComputerSystem",
+        "current_time_zone": 330,
+        "daylight_in_effect": null,
+        "description": "AT/AT COMPATIBLE",
+        "dns_host_name": "GOHAIN11",
+        "domain": "asiapacific.cpqcorp.net",
+        "domain_role": 1,
+        "enable_daylight_savings_time": true,
+        "front_panel_reset_status": 3,
+        "infrared_supported": false,
+        "initial_load_info": null,
+        "install_date": null,
+        "keyboard_password_status": 3,
+        "last_load_info": null,
+        "manufacturer": "Hewlett-Packard",
+        "model": "HP EliteBook 840 G1",
+        "name": "GOHAIN11",
+        "name_format": null,
+        "network_server_mode_enabled": true,
+        "number_of_logical_processors": 4,
+        "number_of_processors": 1,
+        "oem_string_array": [
+          "FBYTE#3X47676J6S6b757H7M7Q7W7s9VaBaw.Gr;",
+          "BUILDID#13WWCODW601#SACJ#DACJ;",
+          "ABS 70/71 79 7A 7B 7C",
+          "CSM v01.5B",
+          "HP_Mute_LED_0_0",
+          "www.hp.com"
+        ],
+        "part_of_domain": true,
+        "pause_after_reset": "-1",
+        "pc_system_type": 2,
+        "power_management_capabilities": null,
+        "power_management_supported": null,
+        "power_on_password_status": 3,
+        "power_state": 0,
+        "power_supply_state": 3,
+        "primary_owner_contact": null,
+        "primary_owner_name": "Pranjal Pratim Gohain",
+        "reset_capability": 1,
+        "reset_count": -1,
+        "reset_limit": -1,
+        "roles": [
+          "LM_Workstation",
+          "LM_Server",
+          "NT",
+          "Potential_Browser",
+          "Master_Browser"
+        ],
+        "status": "OK",
+        "support_contact_description": null,
+        "system_startup_delay": null,
+        "system_startup_options": null,
+        "system_startup_setting": null,
+        "system_type": "x64-based PC",
+        "thermal_state": 1,
+        "total_physical_memory": "8482041856",
+        "user_name": "ASIAPACIFIC\\gohain",
+        "wake_up_type": 6,
+        "workgroup": null
+      },
+      "machine": "x86_64"
+    },
+    "memory": {
+      "swap": {
+        "total": "8283244kB",
+        "free": "7048880kB"
+      },
+      "total": "8283244kB",
+      "free": "2086500kB"
+    },
+    "network": {
+      "interfaces": {
+        "0xc": {
+          "configuration": {
+            "ip_address": [
+              "16.182.229.171",
+              "fe80::2801:9cc4:59e3:abc4"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000007] Intel(R) Ethernet Connection I218-LM",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": false,
+            "default_ip_gateway": [
+              "16.182.228.1"
+            ],
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "Intel(R) Ethernet Connection I218-LM",
+            "dhcp_enabled": true,
+            "dhcp_lease_expires": "20170301140705.000000+330",
+            "dhcp_lease_obtained": "20170214140705.000000+330",
+            "dhcp_server": "16.230.57.250",
+            "dns_domain": "asiapacific.hpqcorp.net",
+            "dns_domain_suffix_search_order": [
+              "asiapacific.hpqcorp.net"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "GOHAIN11",
+            "dns_server_search_order": [
+              "16.110.135.52",
+              "16.110.135.51"
+            ],
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": [
+              0
+            ],
+            "igmp_level": null,
+            "index": 7,
+            "interface_index": 12,
+            "ip_connection_metric": 20,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.252.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": 300000,
+            "mac_address": "D0:BF:9C:DE:22:82",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "e1dexpress",
+            "setting_id": "{2ABD109C-191B-4392-A1FE-C2518A2A9F03}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": 3,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000007] Intel(R) Ethernet Connection I218-LM",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "Intel(R) Ethernet Connection I218-LM",
+            "device_id": "7",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{2ABD109C-191B-4392-A1FE-C2518A2A9F03}",
+            "index": 7,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 12,
+            "last_error_code": null,
+            "mac_address": "D0:BF:9C:DE:22:82",
+            "manufacturer": "Intel",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Intel(R) Ethernet Connection I218-LM",
+            "net_connection_id": "Local Area Connection",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "PCI\\VEN_8086&DEV_155A&SUBSYS_198F103C&REV_04\\3&E89B380&0&C8",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Intel(R) Ethernet Connection I218-LM",
+            "service_name": "e1dexpress",
+            "speed": "100000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "GOHAIN11",
+            "time_of_last_reset": "20170213104319.471104+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "16.182.229.171": {
+              "prefixlen": "22",
+              "netmask": "255.255.252.0",
+              "broadcast": "16.182.231.255",
+              "family": "inet"
+            },
+            "fe80::2801:9cc4:59e3:abc4": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "D0:BF:9C:DE:22:82": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "16.182.228.1": "00:00:5e:00:01:0d",
+            "16.182.229.67": "70:5a:0f:cb:07:d9",
+            "16.182.229.70": "2c:59:e5:ba:db:c3",
+            "16.182.229.76": "c4:34:6b:24:7e:9f",
+            "16.182.229.86": "a0:1d:48:f5:2a:b3",
+            "16.182.229.89": "fc:3f:db:90:ad:87",
+            "16.182.229.97": "28:80:23:01:b0:f5",
+            "16.182.229.98": "70:5a:0f:cb:f8:24",
+            "16.182.229.109": "c4:34:6b:24:fa:8e",
+            "16.182.229.143": "70:5a:0f:d3:10:0b",
+            "16.182.229.151": "2c:59:e5:ba:af:7c",
+            "16.182.229.161": "5c:b9:01:b1:54:0c",
+            "16.182.229.164": "d0:bf:9c:de:b1:87",
+            "16.182.229.167": "30:8d:99:bc:a4:d6",
+            "16.182.229.170": "98:e7:f4:35:9d:e0",
+            "16.182.229.181": "a0:2b:b8:30:ba:5b",
+            "16.182.229.182": "5c:b9:01:b1:f1:25",
+            "16.182.229.184": "fc:3f:db:90:7e:08",
+            "16.182.229.189": "2c:59:e5:ba:7e:52",
+            "16.182.229.211": "70:5a:0f:cb:b9:fd",
+            "16.182.229.231": "c4:34:6b:24:dc:75",
+            "16.182.230.6": "70:5a:0f:cb:6a:fd",
+            "16.182.230.44": "64:51:06:9f:58:5f",
+            "16.182.230.48": "c4:34:6b:28:6f:df",
+            "16.182.230.64": "30:8d:99:bb:4a:70",
+            "16.182.230.141": "c4:34:6b:24:fa:95",
+            "16.182.230.151": "ec:9a:74:35:bd:46",
+            "16.182.230.169": "f0:92:1c:5a:7c:53",
+            "16.182.230.202": "70:5a:0f:d2:8f:0e",
+            "16.182.230.206": "70:5a:0f:d0:cb:e2",
+            "16.182.230.208": "50:65:f3:bb:c4:60",
+            "16.182.230.217": "a0:8c:fd:9c:2e:e0",
+            "16.182.230.232": "70:5a:0f:d3:01:88",
+            "16.182.230.238": "70:5a:0f:d2:bf:74",
+            "16.182.230.239": "a0:d3:c1:9c:ba:4a",
+            "16.182.230.253": "70:5a:0f:cb:ca:d5",
+            "16.182.231.10": "50:65:f3:be:54:47",
+            "16.182.231.19": "70:5a:0f:ca:50:9c",
+            "16.182.231.45": "70:5a:0f:86:ff:f3",
+            "16.182.231.55": "98:e7:f4:35:0e:2a",
+            "16.182.231.71": "64:51:06:9f:0c:49",
+            "16.182.231.82": "70:5a:0f:ca:87:3d",
+            "16.182.231.117": "70:5a:0f:d0:5c:18",
+            "16.182.231.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x18": {
+          "configuration": {
+            "ip_address": [
+              "192.168.160.1",
+              "fe80::cc9d:9c6c:de5d:339c"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000016] VMware Virtual Ethernet Adapter for VMnet1",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": false,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "VMware Virtual Ethernet Adapter for VMnet1",
+            "dhcp_enabled": false,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": null,
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "asiapacific.hpqcorp.net"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "GOHAIN11",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 16,
+            "interface_index": 24,
+            "ip_connection_metric": 20,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": 300000,
+            "mac_address": "00:50:56:C0:00:01",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VMnetAdapter",
+            "setting_id": "{23D849E8-E98E-4437-8C82-3ABE2E6857A8}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": 3,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000016] VMware Virtual Ethernet Adapter for VMnet1",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "VMware Virtual Ethernet Adapter for VMnet1",
+            "device_id": "16",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{23D849E8-E98E-4437-8C82-3ABE2E6857A8}",
+            "index": 16,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 24,
+            "last_error_code": null,
+            "mac_address": "00:50:56:C0:00:01",
+            "manufacturer": "VMware, Inc.",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "VMware Virtual Ethernet Adapter for VMnet1",
+            "net_connection_id": "VMware Network Adapter VMnet1",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\VMWARE\\0000",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "VMware Virtual Ethernet Adapter for VMnet1",
+            "service_name": "VMnetAdapter",
+            "speed": "100000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "GOHAIN11",
+            "time_of_last_reset": "20170213104319.471104+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.160.1": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.160.255",
+              "family": "inet"
+            },
+            "fe80::cc9d:9c6c:de5d:339c": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "00:50:56:C0:00:01": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.160.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x19": {
+          "configuration": {
+            "ip_address": [
+              "192.168.184.1",
+              "fe80::3d5b:66c6:2984:78cb"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000019] VMware Virtual Ethernet Adapter for VMnet8",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": false,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "VMware Virtual Ethernet Adapter for VMnet8",
+            "dhcp_enabled": false,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": null,
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "asiapacific.hpqcorp.net"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "GOHAIN11",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 19,
+            "interface_index": 25,
+            "ip_connection_metric": 20,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": 300000,
+            "mac_address": "00:50:56:C0:00:08",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VMnetAdapter",
+            "setting_id": "{0F84124B-036C-4A3D-8C39-FDEBFB89F5D9}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": 3,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000019] VMware Virtual Ethernet Adapter for VMnet8",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "VMware Virtual Ethernet Adapter for VMnet8",
+            "device_id": "19",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{0F84124B-036C-4A3D-8C39-FDEBFB89F5D9}",
+            "index": 19,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 25,
+            "last_error_code": null,
+            "mac_address": "00:50:56:C0:00:08",
+            "manufacturer": "VMware, Inc.",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "VMware Virtual Ethernet Adapter for VMnet8",
+            "net_connection_id": "VMware Network Adapter VMnet8",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\VMWARE\\0001",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "VMware Virtual Ethernet Adapter for VMnet8",
+            "service_name": "VMnetAdapter",
+            "speed": "100000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "GOHAIN11",
+            "time_of_last_reset": "20170213104319.471104+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.184.1": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.184.255",
+              "family": "inet"
+            },
+            "fe80::3d5b:66c6:2984:78cb": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "00:50:56:C0:00:08": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.184.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x12": {
+          "configuration": {
+            "ip_address": [
+              "16.116.132.217",
+              "fe80::407e:9e22:f498:4be2"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000026] Juniper Networks Virtual Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": false,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "Juniper Networks Virtual Adapter",
+            "dhcp_enabled": false,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": null,
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "asiapacific.hpqcorp.net"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "GOHAIN11",
+            "dns_server_search_order": [
+              "16.110.135.51",
+              "16.110.135.52"
+            ],
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 26,
+            "interface_index": 18,
+            "ip_connection_metric": 0,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.255",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": 300000,
+            "mac_address": "02:05:85:7F:EB:80",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "jnprva",
+            "setting_id": "{BC1A84F8-EE26-479F-B3F1-175A291DB761}",
+            "tcpip_netbios_options": 1,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": 3,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000026] Juniper Networks Virtual Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "Juniper Networks Virtual Adapter",
+            "device_id": "26",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{BC1A84F8-EE26-479F-B3F1-175A291DB761}",
+            "index": 26,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 18,
+            "last_error_code": null,
+            "mac_address": "02:05:85:7F:EB:80",
+            "manufacturer": "Juniper Networks",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Juniper Networks Virtual Adapter",
+            "net_connection_id": "Local Area Connection* 11",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "{FE36527A-8C07-4854-8AF7-BF40E7DF52F7}\\JNPRVA\\0001",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Juniper Networks Virtual Adapter",
+            "service_name": "jnprva",
+            "speed": "2000000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "GOHAIN11",
+            "time_of_last_reset": "20170213104319.471104+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "16.116.132.217": {
+              "prefixlen": "32",
+              "netmask": "255.255.255.255",
+              "broadcast": "16.116.132.217",
+              "family": "inet"
+            },
+            "fe80::407e:9e22:f498:4be2": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "02:05:85:7F:EB:80": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "15.211.158.87": "02:00:0f:d3:9e:57",
+            "15.233.44.24": "02:00:0f:e9:2c:18",
+            "16.82.0.180": "02:00:10:52:00:b4",
+            "16.82.16.96": "02:00:10:52:10:60",
+            "16.82.16.154": "02:00:10:52:10:9a",
+            "16.82.56.72": "02:00:10:52:38:48",
+            "16.109.194.56": "02:00:10:6d:c2:38",
+            "16.109.216.66": "02:00:10:6d:d8:42",
+            "16.110.135.51": "02:00:10:6e:87:33",
+            "16.110.135.52": "02:00:10:6e:87:34",
+            "16.167.28.199": "02:00:10:a7:1c:c7",
+            "16.167.28.210": "02:00:10:a7:1c:d2",
+            "16.167.48.166": "02:00:10:a7:30:a6",
+            "16.173.161.206": "02:00:10:ad:a1:ce",
+            "16.173.161.216": "02:00:10:ad:a1:d8",
+            "16.173.176.126": "02:00:10:ad:b0:7e",
+            "16.173.192.92": "02:00:10:ad:c0:5c",
+            "16.173.192.93": "02:00:10:ad:c0:5d",
+            "16.193.225.123": "02:00:10:c1:e1:7b",
+            "16.193.228.50": "02:00:10:c1:e4:32",
+            "16.195.80.197": "02:00:10:c3:50:c5",
+            "16.195.80.199": "02:00:10:c3:50:c7",
+            "16.196.177.213": "02:00:10:c4:b1:d5",
+            "16.197.212.51": "02:00:10:c5:d4:33",
+            "16.208.33.29": "02:00:10:d0:21:1d",
+            "16.208.40.52": "02:00:10:d0:28:34",
+            "16.208.81.4": "02:00:10:d0:51:04",
+            "16.210.51.234": "02:00:10:d2:33:ea",
+            "16.210.64.50": "02:00:10:d2:40:32",
+            "16.216.8.251": "02:00:10:d8:08:fb",
+            "16.216.16.50": "02:00:10:d8:10:32",
+            "16.216.255.15": "02:00:10:d8:ff:0f",
+            "16.216.255.30": "02:00:10:d8:ff:1e",
+            "16.221.32.67": "02:00:10:dd:20:43",
+            "16.226.166.58": "02:00:10:e2:a6:3a",
+            "16.234.58.10": "02:00:10:ea:3a:0a",
+            "16.234.58.15": "02:00:10:ea:3a:0f",
+            "16.236.203.14": "02:00:10:ec:cb:0e",
+            "16.236.203.15": "02:00:10:ec:cb:0f",
+            "16.236.203.16": "02:00:10:ec:cb:10",
+            "16.236.203.39": "02:00:10:ec:cb:27",
+            "16.236.203.70": "02:00:10:ec:cb:46",
+            "16.238.58.16": "02:00:10:ee:3a:10",
+            "16.248.1.201": "02:00:10:f8:01:c9",
+            "16.248.18.10": "02:00:10:f8:12:0a",
+            "16.248.25.228": "02:00:10:f8:19:e4",
+            "16.248.33.214": "02:00:10:f8:21:d6",
+            "16.248.42.89": "02:00:10:f8:2a:59",
+            "16.250.4.23": "02:00:10:fa:04:17",
+            "16.250.9.189": "02:00:10:fa:09:bd",
+            "16.250.33.201": "02:00:10:fa:21:c9",
+            "16.250.45.206": "02:00:10:fa:2d:ce",
+            "16.252.64.60": "02:00:10:fc:40:3c",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x14": {
+          "configuration": {
+            "ip_address": [
+              "172.28.128.1",
+              "fe80::9461:a978:301a:e044"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000027] VirtualBox Host-Only Ethernet Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": false,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "VirtualBox Host-Only Ethernet Adapter #2",
+            "dhcp_enabled": false,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": null,
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "asiapacific.hpqcorp.net"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "GOHAIN11",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 27,
+            "interface_index": 20,
+            "ip_connection_metric": 10,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": 300000,
+            "mac_address": "0A:00:27:00:00:14",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VBoxNetAdp",
+            "setting_id": "{A1DCA7CC-33DE-42C3-AEC6-1915F10C1354}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": 3,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000027] VirtualBox Host-Only Ethernet Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "VirtualBox Host-Only Ethernet Adapter",
+            "device_id": "27",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{A1DCA7CC-33DE-42C3-AEC6-1915F10C1354}",
+            "index": 27,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 20,
+            "last_error_code": null,
+            "mac_address": "0A:00:27:00:00:14",
+            "manufacturer": "Oracle Corporation",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "VirtualBox Host-Only Ethernet Adapter #2",
+            "net_connection_id": "VirtualBox Host-Only Network #2",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\NET\\0002",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "VirtualBox Host-Only Ethernet Adapter",
+            "service_name": "VBoxNetAdp",
+            "speed": "1000000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "GOHAIN11",
+            "time_of_last_reset": "20170213104319.471104+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "172.28.128.1": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "172.28.128.255",
+              "family": "inet"
+            },
+            "fe80::9461:a978:301a:e044": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "0A:00:27:00:00:14": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "172.28.128.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x13": {
+          "configuration": {
+            "ip_address": [
+              "192.168.56.1",
+              "fe80::651c:93be:d9e7:28a7"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000028] VirtualBox Host-Only Ethernet Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": false,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "VirtualBox Host-Only Ethernet Adapter",
+            "dhcp_enabled": false,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": null,
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "asiapacific.hpqcorp.net"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "GOHAIN11",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 28,
+            "interface_index": 19,
+            "ip_connection_metric": 10,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": 300000,
+            "mac_address": "0A:00:27:00:00:13",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VBoxNetAdp",
+            "setting_id": "{3C2D36C8-45BC-4438-AA81-1D87E9FD24A3}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": 3,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000028] VirtualBox Host-Only Ethernet Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "VirtualBox Host-Only Ethernet Adapter",
+            "device_id": "28",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{3C2D36C8-45BC-4438-AA81-1D87E9FD24A3}",
+            "index": 28,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 19,
+            "last_error_code": null,
+            "mac_address": "0A:00:27:00:00:13",
+            "manufacturer": "Oracle Corporation",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "VirtualBox Host-Only Ethernet Adapter",
+            "net_connection_id": "VirtualBox Host-Only Network",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\NET\\0001",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "VirtualBox Host-Only Ethernet Adapter",
+            "service_name": "VBoxNetAdp",
+            "speed": "1000000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "GOHAIN11",
+            "time_of_last_reset": "20170213104319.471104+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.56.1": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.56.255",
+              "family": "inet"
+            },
+            "fe80::651c:93be:d9e7:28a7": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "0A:00:27:00:00:13": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.56.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa"
+          },
+          "encapsulation": "Ethernet"
+        }
+      },
+      "default_gateway": "16.182.228.1",
+      "default_interface": "0xc"
+    },
+    "counters": {
+      "network": {
+
+      }
+    },
+    "ipaddress": "16.182.229.171",
+    "macaddress": "D0:BF:9C:DE:22:82",
+    "ip6address": "fe80::2801:9cc4:59e3:abc4",
+    "os": "windows",
+    "os_version": "6.1.7601",
+    "platform": "windows",
+    "platform_version": "6.1.7601",
+    "platform_family": "windows",
+    "uptime_seconds": 59284,
+    "uptime": "16 hours 28 minutes 04 seconds",
+    "virtualization": {
+      "systems": {
+
+      }
+    },
+    "languages": {
+      "java": {
+        "version": "1.8.0_111",
+        "runtime": {
+          "name": "Java(TM) SE Runtime Environment",
+          "build": "1.8.0_111-b14"
+        },
+        "hotspot": {
+          "name": "Java HotSpot(TM) Client VM",
+          "build": "25.111-b14, mixed mode, sharing"
+        }
+      },
+      "perl": {
+        "version": "5.8.8",
+        "archname": "msys-64int"
+      },
+      "powershell": {
+        "version": "4.0",
+        "ws_man_stack_version": "3.0",
+        "serialization_version": "1.1.0.1",
+        "clr_version": "4.0.30319.42000",
+        "build_version": "6.3.9600.16406",
+        "compatible_versions": [
+          "1.0",
+          "2.0",
+          "3.0",
+          "4.0"
+        ],
+        "remoting_protocol_version": "2.2"
+      },
+      "ruby": {
+        "platform": "i386-mingw32",
+        "version": "2.3.1",
+        "release_date": "2016-04-26",
+        "target": "i386-w64-mingw32",
+        "target_cpu": "i386",
+        "target_vendor": "w64",
+        "target_os": "mingw32",
+        "host": "i686-w64-mingw32",
+        "host_cpu": "i686",
+        "host_os": "mingw32",
+        "host_vendor": "w64",
+        "bin_dir": "C:/opscode/chefdk/embedded/bin",
+        "ruby_bin": "C:/opscode/chefdk/embedded/bin/ruby",
+        "gems_dir": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.3.0",
+        "gem_bin": "C:/opscode/chefdk/embedded/bin/gem"
+      }
+    },
+    "chef_packages": {
+      "chef": {
+        "version": "12.14.89",
+        "chef_root": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.14.89-universal-mingw32/lib"
+      },
+      "ohai": {
+        "version": "8.20.0",
+        "ohai_root": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ohai-8.20.0/lib/ohai"
+      }
+    },
+    "dmi": {
+
+    },
+    "cloud_v2": null,
+    "command": {
+
+    },
+    "hostname": "GOHAIN11",
+    "machinename": "GOHAIN11",
+    "fqdn": "GOHAIN11.asiapacific.hpqcorp.net",
+    "domain": "asiapacific.hpqcorp.net",
+    "keys": {
+      "ssh": {
+
+      }
+    },
+    "fips": {
+      "kernel": {
+        "enabled": false
+      }
+    },
+    "ohai_time": 1487065542.386056,
+    "packages": {
+      "Windows Driver Package - OnePlus, Inc. (WinUSB) AndroidUsbDeviceClass  (05/24/2012 6.0.0000.00000)": {
+        "version": "05/24/2012 6.0.0000.00000",
+        "publisher": "OnePlus, Inc."
+      },
+      "Windows Driver Package - Intel (NETwNs64) net  (04/30/2015 15.17.0.1)": {
+        "version": "04/30/2015 15.17.0.1",
+        "publisher": "Intel"
+      },
+      "Windows Driver Package - Intel (NETwNs64) net  (06/15/2016 19.0.1.1)": {
+        "version": "06/15/2016 19.0.1.1",
+        "publisher": "Intel"
+      },
+      "Windows Driver Package - Intel (NETwNs64) net  (05/03/2016 18.33.3.2)": {
+        "version": "05/03/2016 18.33.3.2",
+        "publisher": "Intel"
+      },
+      "Git version 2.10.1": {
+        "version": "2.10.1",
+        "publisher": "The Git Development Community",
+        "installdate": "20161005"
+      },
+      "HP Operations Orchestration (@ C:\\Program Files\\Hewlett-Packard\\HP Operations Orchestration)": {
+        "version": "10.51.0000.219",
+        "publisher": "Hewlett-Packard"
+      },
+      "Juniper Networks Setup Client 64-bit Activex Control": {
+        "version": "2.1.1.1",
+        "publisher": "Juniper Networks"
+      },
+      "Microsoft Visual J# 2.0 Redistributable Package - SE (x64)": {
+        "version": "2.0.50728",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160829"
+      },
+      "OpenVPN 2.3.11-I601 ": {
+        "version": "2.3.11-I601"
+      },
+      "Sublime Text Build 3114": {
+        "publisher": "Sublime HQ Pty Ltd",
+        "installdate": "20160914"
+      },
+      "Synaptics Pointing Device Driver": {
+        "version": "17.0.18.23",
+        "publisher": "Synaptics Incorporated"
+      },
+      "TAP-Windows 9.21.2": {
+        "version": "9.21.2"
+      },
+      "Chef Client v12.15.19": {
+        "version": "12.15.19.1",
+        "publisher": "Chef Software, Inc.",
+        "installdate": "20161106"
+      },
+      "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219": {
+        "version": "10.0.40219",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161116"
+      },
+      "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030": {
+        "version": "11.0.61030",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150526"
+      },
+      "Microsoft Outlook Registry fixes": {
+        "version": "1.0",
+        "publisher": "Microsoft",
+        "installdate": "20160831"
+      },
+      "Intel(R) Rapid Storage Technology": {
+        "version": "12.8.6.1000",
+        "publisher": "Intel Corporation",
+        "installdate": "20160825"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148": {
+        "version": "9.0.30729.4148",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160829"
+      },
+      "HPE Password Reset Tool": {
+        "version": "1.3.1.0",
+        "publisher": "Hewlett Packard Enterprise",
+        "installdate": "20161130"
+      },
+      "HPE Skype for Business Diagnostic Tools 2.2": {
+        "version": "2.2.1.1",
+        "publisher": "Hewlett Packard Enterprise",
+        "installdate": "20161214"
+      },
+      "Microsoft Silverlight": {
+        "version": "5.1.50901.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170109"
+      },
+      "Microsoft Office 64-bit Components 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170109"
+      },
+      "Microsoft Office Shared 64-bit MUI (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161005"
+      },
+      "Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160915"
+      },
+      "Device Installer x64": {
+        "version": "2.2",
+        "publisher": "ActivIdentity",
+        "installdate": "20150526"
+      },
+      "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160825"
+      },
+      "Microsoft .NET Framework 4.6.1": {
+        "version": "4.6.01055",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170119"
+      },
+      "HP IT Virtual Smart Card": {
+        "version": "1.0.9.5",
+        "publisher": "Hewlett-Packard Company",
+        "installdate": "20160825"
+      },
+      "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160825"
+      },
+      "Microsoft Visual C++ 2005 Redistributable (x64)": {
+        "version": "8.0.61000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150526"
+      },
+      "Validity Fingerprint Sensor Driver": {
+        "version": "4.5.133.0",
+        "publisher": "Validity Sensors, Inc.",
+        "installdate": "20160825"
+      },
+      "Pulse Secure": {
+        "version": "5.1.60057",
+        "publisher": "Pulse Secure, LLC",
+        "installdate": "20160825"
+      },
+      "Google Chrome": {
+        "version": "56.0.2924.87",
+        "publisher": "Google, Inc.",
+        "installdate": "20161112"
+      },
+      "VMware Workstation": {
+        "version": "12.5.2",
+        "publisher": "VMware, Inc.",
+        "installdate": "20161123"
+      },
+      "WinZip 18.0": {
+        "version": "18.0.11023",
+        "publisher": "WinZip Computing, S.L. ",
+        "installdate": "20160825"
+      },
+      "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030": {
+        "version": "11.0.61030",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150526"
+      },
+      "McAfee Host Intrusion Prevention": {
+        "version": "8.00.0402",
+        "publisher": "McAfee, Inc."
+      },
+      "Microsoft Policy Platform": {
+        "version": "68.1.1001.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160831"
+      },
+      "Configuration Manager Client": {
+        "version": "5.00.8355.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160831"
+      },
+      "Oracle VM VirtualBox 5.1.6": {
+        "version": "5.1.6",
+        "publisher": "Oracle Corporation",
+        "installdate": "20161007"
+      },
+      "HP BSA Launcher 1.7.4": {
+        "version": "1.7.4",
+        "publisher": "Hewlett-Packard Development Company, L.P."
+      },
+      "Cisco WebEx Meetings": {
+        "publisher": "Cisco WebEx LLC"
+      },
+      "Adobe Flash Player 24 ActiveX": {
+        "version": "24.0.0.194",
+        "publisher": "Adobe Systems Incorporated"
+      },
+      "Adobe Flash Player 24 NPAPI": {
+        "version": "24.0.0.194",
+        "publisher": "Adobe Systems Incorporated"
+      },
+      "BIG-IP Edge Client Components (All Users)": {
+        "version": "71.2016.0430.0202",
+        "publisher": "F5 Networks, Inc."
+      },
+      "Internet Download Manager": {
+        "publisher": "Tonec Inc."
+      },
+      "Juniper Networks Setup Client Activex Control": {
+        "version": "2.1.1.1",
+        "publisher": "Juniper Networks"
+      },
+      "Mozilla Firefox 51.0.1 (x86 en-US)": {
+        "version": "51.0.1",
+        "publisher": "Mozilla"
+      },
+      "Mozilla Maintenance Service": {
+        "version": "51.0.1.6234",
+        "publisher": "Mozilla"
+      },
+      "Notepad++ (32-bit x86)": {
+        "version": "7.2.2",
+        "publisher": "Notepad++ Team"
+      },
+      "Microsoft Office Professional Plus 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170119"
+      },
+      "OnePlus USB Drivers 1.00": {
+        "version": "1.00",
+        "publisher": "OnePlus, Inc",
+        "installdate": "20170208"
+      },
+      "Pulse Secure 5.1": {
+        "version": "5.1.60057",
+        "publisher": "Pulse Secure, LLC"
+      },
+      "SumatraPDF": {
+        "version": "3.0",
+        "publisher": "Krzysztof Kowalczyk",
+        "installdate": "20160825"
+      },
+      "HPE Security Policy Tool 2": {
+        "version": "6.0.314.1450",
+        "publisher": "HPE Cyber Security"
+      },
+      "VLC media player": {
+        "version": "2.2.4",
+        "publisher": "VideoLAN"
+      },
+      "WinSCP 5.9.2": {
+        "version": "5.9.2",
+        "publisher": "Martin Prikryl",
+        "installdate": "20161106"
+      },
+      "HP Fonts": {
+        "version": "2.0",
+        "publisher": "Hewlett-Packard",
+        "installdate": "20150527"
+      },
+      "Citrix Online Launcher": {
+        "version": "1.0.408",
+        "publisher": "Citrix",
+        "installdate": "20160910"
+      },
+      "VMware vSphere Client 5.1": {
+        "version": "5.1.0.5018",
+        "publisher": "VMware, Inc.",
+        "installdate": "20161121"
+      },
+      "McAfee Agent": {
+        "version": "4.8.0.2043",
+        "publisher": "McAfee, Inc.",
+        "installdate": "20160826"
+      },
+      "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160825"
+      },
+      "MSXML 4.0 SP3 Parser (KB2758694)": {
+        "version": "4.30.2117.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150527"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148": {
+        "version": "9.0.30729.4148",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160829"
+      },
+      "Microsoft Visual C++ 2005 Runtime": {
+        "version": "8.0.50727.76201",
+        "publisher": "Hewlett-Packard Company",
+        "installdate": "20150526"
+      },
+      "HP MyRoom": {
+        "version": "10.7.0067",
+        "publisher": "Hewlett Packard Enterprise",
+        "installdate": "20161116"
+      },
+      "Java 8 Update 111": {
+        "version": "8.0.1110.14",
+        "publisher": "Oracle Corporation",
+        "installdate": "20170202"
+      },
+      "Apple Application Support (32-bit)": {
+        "version": "5.0.1",
+        "publisher": "Apple Inc.",
+        "installdate": "20161023"
+      },
+      "MSXML 4.0 SP3 Parser (KB2721691)": {
+        "version": "4.30.2114.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150527"
+      },
+      "Java Auto Updater": {
+        "version": "2.8.111.14",
+        "publisher": "Oracle Corporation",
+        "installdate": "20170202"
+      },
+      "VMware vSphere Client 5.5": {
+        "version": "5.5.0.6389",
+        "publisher": "VMware, Inc.",
+        "installdate": "20160829"
+      },
+      "HPE MyRoom Add-in for Microsoft Outlook": {
+        "version": "10.5.0.2287",
+        "publisher": "Hewlett-Packard"
+      },
+      "Realtek Card Reader": {
+        "version": "6.3.273.49",
+        "publisher": "Realtek Semiconductor Corp.",
+        "installdate": "20160825"
+      },
+      "Google Update Helper": {
+        "version": "1.3.32.7",
+        "publisher": "Google Inc.",
+        "installdate": "20161217"
+      },
+      "HPE Virtual DigitalBadge": {
+        "version": "1.0.4.2",
+        "publisher": "Hewlett Packard Enterprise",
+        "installdate": "20161103"
+      },
+      "Microsoft Visual C++ 2005 Redistributable": {
+        "version": "8.0.61001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150526"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005": {
+        "version": "12.0.21005.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Update for Microsoft Office 2013 (KB3115257) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft OneNote 2013 (KB3115256) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Word 2013 (KB3127932) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3101503) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft InfoPath 2013 (KB3114818) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3039720) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2013 (KB3039798) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB2827223) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3101491) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Outlook 2013 (KB3118280) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3039795) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Excel 2013 (KB3128008) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Access 2013 (KB3114948) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3023068) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3115485) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3039766) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB2889863) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3114488) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2013 (KB3039794) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft InfoPath 2013 (KB3114946) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3114835) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2013 (KB3054816) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2013 (KB3127968) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Skype for Business 2015 (KB3118348) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3114825) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft OneDrive for Business (KB3115492) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3039701) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3039778) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3085570) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3054785) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2013 (KB3115153) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3085587) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3085565) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Publisher 2013 (KB3085561) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3055007) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3114499) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft PowerPoint 2013 (KB3115487) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3039756) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3023049) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3039800) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2013 (KB3039746) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3023052) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Microsoft Access MUI (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161019"
+      },
+      "Microsoft Excel MUI (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170119"
+      },
+      "Update for Microsoft Office 2013 (KB3054819) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Microsoft PowerPoint MUI (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170119"
+      },
+      "Microsoft Publisher MUI (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160915"
+      },
+      "Microsoft Outlook MUI (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170109"
+      },
+      "Microsoft Word MUI (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170119"
+      },
+      "Microsoft Office Proofing Tools 2013 - English": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160915"
+      },
+      "Update for Microsoft Office 2013 (KB3085577) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Outils de vérification linguistique 2013 de Microsoft Office - Français": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160915"
+      },
+      "Microsoft Office Proofing Tools 2013 - Español": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160915"
+      },
+      "Update for Microsoft Project 2013 (KB3115493) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Microsoft Office Proofing (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160915"
+      },
+      "Microsoft InfoPath MUI (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160915"
+      },
+      "Microsoft Office Shared MUI (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170119"
+      },
+      "Security Update for Microsoft Office 2013 (KB3114340) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Microsoft DCF MUI (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160915"
+      },
+      "Microsoft OneNote MUI (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160916"
+      },
+      "Microsoft Groove MUI (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161005"
+      },
+      "Microsoft Office OSM MUI (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160915"
+      },
+      "Microsoft Office OSM UX MUI (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160915"
+      },
+      "Microsoft Office Shared Setup Metadata MUI (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160915"
+      },
+      "Microsoft Access Setup Metadata MUI (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160915"
+      },
+      "Microsoft Lync MUI (English) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170109"
+      },
+      "Update for Skype for Business 2015 (KB3039776) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "ZTE Mobile Broadband Device Drivers 1.0.0.17": {
+        "publisher": "ZTE",
+        "installdate": "20161024"
+      },
+      "Security Update for Microsoft .NET Framework 4.6.1 (KB3122661)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.6.1 (KB3127233)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.6.1 (KB3136000v2)": {
+        "version": "2",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.6.1 (KB3142037)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.6.1 (KB3143693)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.6.1 (KB3164025)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Update for Microsoft .NET Framework 4.6.1 (KB3210136)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "HPE MyRoom Add-in for Microsoft Outlook (32 bit) (x86)": {
+        "version": "10.5.0.2287",
+        "publisher": "Hewlett-Packard",
+        "installdate": "20161221"
+      },
+      "myIT actions": {
+        "version": "2.1.8",
+        "publisher": "Hewlett Packard Enterprise Company",
+        "installdate": "20161115"
+      },
+      "HP FONTS": {
+        "version": "1.0",
+        "publisher": "Hewlett Packard Enterprise",
+        "installdate": "20161121"
+      },
+      "Adobe Reader XI (11.0.18)": {
+        "version": "11.0.18",
+        "publisher": "Adobe Systems Incorporated",
+        "installdate": "20170109"
+      },
+      "HPE Security Policy Tool 1": {
+        "version": "11.12.10",
+        "publisher": "HPE Cyber Security",
+        "installdate": "20160930"
+      },
+      "HPE Smart Client": {
+        "version": "1.0.16118.0",
+        "publisher": "Hewlett Packard Enterprise",
+        "installdate": "20160831"
+      },
+      "Airtel 4G": {
+        "version": "1.0.0.1",
+        "publisher": "ZTE",
+        "installdate": "20161024"
+      },
+      "ZDServer": {
+        "version": "1.0.1.2",
+        "publisher": "ZTE Corporation",
+        "installdate": "20170213"
+      },
+      "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030": {
+        "version": "11.0.61030.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Chef Development Kit v0.18.30": {
+        "version": "0.18.30.1",
+        "publisher": "Chef Software, Inc.",
+        "installdate": "20161012"
+      },
+      "Vagrant": {
+        "version": "1.8.6",
+        "publisher": "HashiCorp",
+        "installdate": "20161004"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005": {
+        "version": "12.0.21005.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "McAfee VirusScan Enterprise": {
+        "version": "8.8.08000",
+        "publisher": "McAfee, Inc.",
+        "installdate": "20170214"
+      },
+      "MSFT IE11WIN81EntMode": {
+        "version": "11.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160831"
+      },
+      "HPE Lync2013Reg 1.0": {
+        "version": "1.00.0000",
+        "publisher": "Hewlett Packard Enterprise",
+        "installdate": "20160831"
+      },
+      "HP HD Webcam Driver": {
+        "version": "6.2.9200.10251",
+        "publisher": "Realtek Semiconductor Corp.",
+        "installdate": "20160825"
+      },
+      "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219": {
+        "version": "10.0.40219",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161116"
+      },
+      "Intel(R) Processor Graphics": {
+        "version": "10.18.10.3993",
+        "publisher": "Intel Corporation"
+      },
+      "Microsoft Visual Studio Code": {
+        "version": "1.9.1",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170210"
+      },
+      "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160825"
+      },
+      "Skype™ 7.29": {
+        "version": "7.29.102",
+        "publisher": "Skype Technologies S.A.",
+        "installdate": "20161108"
+      }
+    },
+    "root_group": "Administrators",
+    "time": {
+      "timezone": "India Standard Time"
+    },
+    "recipes": [
+
+    ],
+    "expanded_run_list": [
+
+    ],
+    "roles": [
+
+    ]
+  }
+}

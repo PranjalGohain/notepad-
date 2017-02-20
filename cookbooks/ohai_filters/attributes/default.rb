@@ -1,0 +1,1 @@
+default['value']['add'] = 'This is how contents ae opied from the attributes'

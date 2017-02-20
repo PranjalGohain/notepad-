@@ -1,0 +1,12 @@
+{
+    "name": "example",
+    "description": "Example role defined as JSON",
+    "chef_type": "role",
+    "json_clas": "Chef::Role",
+    "default_attributes": {
+    },
+    "override_attributes": {
+    },
+    "run_list": [ "recipe[example]"
+    ]
+}
