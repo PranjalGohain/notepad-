@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 The chef-repo
 ===============
 All installations require a central workspace known as the chef-repo. This is a place where primitive objects--cookbooks, roles, environments, data bags, and chef-repo configuration files--are stored and managed.
@@ -34,3 +35,7 @@ Now that you have the chef-repo ready to go, check out [Learn Chef](https://lear
 # chef-backup
 This is the backup for my entire Repo
 >>>>>>> a3e043c6a048a532759d70e1113d122d80976f5f
+=======
+# notepad-
+This is for installing notepad++ in the windows machine
+>>>>>>> 411407594eec7abca899dbdb8cc7b05eed430402
